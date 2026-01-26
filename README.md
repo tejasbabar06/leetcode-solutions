@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -30,8 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0049-group-anagrams) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
