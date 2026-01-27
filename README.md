@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Trie
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
