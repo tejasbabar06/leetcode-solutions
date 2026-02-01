@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0155-min-stack) |
 | [0844-backspace-string-compare](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
