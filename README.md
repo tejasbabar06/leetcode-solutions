@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
