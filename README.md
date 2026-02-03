@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0735-asteroid-collision](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
