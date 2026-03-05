@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0155-min-stack) |
 ## Linked List
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
