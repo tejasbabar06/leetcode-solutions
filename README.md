@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
