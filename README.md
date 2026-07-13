@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Design
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/tejasbabar06/leetcode-solutions/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
